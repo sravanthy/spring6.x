@@ -1,1 +1,33 @@
+->spring boot (Rest API)
+->spring cloud
+->Docker
+->Kubernetes
+
+
+REST API
+========
+-->Web Service:Software System designed for machine-to-machine interaction over a network
+3 Key factors
+=============
+1)Machine-to-Machine or Application-to Application interaction
+2)Platform Independent
+3)Allow communication over network
+
+To make platform independent
+============================
+Communication(Request & Response) between webservice and consumers should happen in platform independent formats (XML or JSON)
+
+
+Webservice(Service Provider) --------Request/Response(XML or JSON) --------Service Consumer
+
+2 Webservice Categories
+=======================
+SOAP WS --SOAP XML as request/response format
+Rest WS--Build on top of HTTP protocol using its methods (GET/POST/DELETE)
+
+
+REST API with Spring Boot
+=========================
+
+
 
